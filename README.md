@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Saneeth 👋
 
-<!--
-**thotasaneeth-pixel/thotasaneeth-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a first-year Management Information Systems student at the University of Georgia interested in business consulting, strategy, and data analysis.
 
-Here are some ideas to get you started:
+My experience includes supplier research, digital marketing, customer service, and leading community service initiatives. I’m using this space to share projects and document what I’m learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Business strategy and problem solving
+- Business and data analysis
+- Supply chain and operations
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/saneeth-thota-0158b8341/)
